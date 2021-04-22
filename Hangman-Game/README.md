@@ -25,8 +25,7 @@ Nodejs Installed in your device
 ### How to Run this application on your Local Machine
 - Clone this repository
 - Write npm install -- to install all node dependencies
-- npm start --- to run the project in your local machine
-- [Live Demo](https://hangman-game-react.vercel.app/)
+- npm start --- to run the project in your local machine.
 
 
 
@@ -35,7 +34,7 @@ Nodejs Installed in your device
 ```
 
   if (needHelp === true) {
-     var emailId = "guptamiley3012@gmail.com";
+     var emailId = "sumitpg91@rediffmail.com";
      // email is the best way to reach out to me.
      sendEmail(emailId);
   }
